@@ -1,0 +1,50 @@
+body{
+    background: url('../background.jpg');
+    color: #fff;
+}
+
+form {
+width: 400px;
+height: 400px;
+margin:auto;
+background: rgba(64, 56, 90, 0.719);
+border-radius: 1%;
+box-shadow: 0px 3px 8px #000;
+}
+
+input[type=text]{
+width: 390px;
+border: none;
+border-bottom: 1px solid grey;
+font-size: 30px;
+color:#fff;
+background: none;
+}
+
+td{
+padding:0px;
+}
+
+button{
+height: 100px;
+border:none;
+padding: 20px;
+width: 100%;
+cursor: pointer;
+color:grey;
+background: none;
+position: relative;
+}
+
+h1{
+font-family: 'Encode Sans Condensed', sans-serif;
+color: rgb(0, 0, 0);
+font-size: 35px;
+border-bottom: 3px solid #fff;
+}
+
+
+input[type=button]{
+    height: 85px;
+    width: 85px;
+}
